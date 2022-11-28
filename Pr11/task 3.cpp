@@ -5,8 +5,8 @@
 using namespace std;
 
 int main(void) {
-    int m = 4;
-    int n = 3;
+    int m = 5;
+    int n = 7;
     int arr[m][n];
     
     srand(time(NULL));
