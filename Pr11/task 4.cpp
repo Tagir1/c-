@@ -6,8 +6,8 @@ using namespace std;
 
 int main() 
 {
-    int m=6;
-    int n=4;
+    int m=4;
+    int n=6;
     int sum[n];
     int arr[m][n];
     
