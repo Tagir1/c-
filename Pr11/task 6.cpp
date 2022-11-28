@@ -5,8 +5,8 @@
 using namespace std;
 
 int main(void) {
-    int m = 3;
-    int n = 4;
+    int m = 4;
+    int n = 7;
     int arr[m][n];
     
     
